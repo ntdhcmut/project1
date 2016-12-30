@@ -1,1 +1,3 @@
 Chuc mung nam moi
+Thu nghiem
+test coi hoat dong dung  khong
